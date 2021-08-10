@@ -1,0 +1,27 @@
+Book my show planning
+----------------
+
+    Reusable carousel
+    --------
+        Hero carousel
+        common carousel
+        cast and crew small carousel
+
+    Pages
+    --------
+        HomePAge
+        MoviePage
+        CategoriesPage
+        AuthPage
+        RazorPay payment gateway
+
+    Plan
+    ----------
+    first build layout
+    Routes
+    Pages
+    Components
+
+HOC(Higher order Component)
+------------
+Takes one component and returns new component
